@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexek2025
+- 👋 Hi, I’m Alexandrine Ekoube
 - 👀 I’m interested in smart energy management
 - 🌱 I’m currently learning energy efficiency and economy at the universty of Luxembourg
 - 💞️ I’m looking to collaborate on smart energy management project
